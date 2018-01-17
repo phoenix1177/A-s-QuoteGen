@@ -1,0 +1,23 @@
+body{
+	background: #4B0966;
+	color: white;
+  	font-family: Shadows Into Light; 
+}
+blockquote{
+	background: #E7E0E8;
+	color: black;
+	font-family: new times roman;
+	margin-right: auto;
+	margin-left: auto;
+	width: 33%;
+	border-radius: 15px;
+  	padding: 20px;
+  	height: auto; 
+  	margin-top: 20px;
+}
+#quote{
+	font-size: 30px;
+}
+#author{
+	font-size: 15px;
+}
